@@ -15,7 +15,7 @@ deploy:
   email: deploy@travis-ci.org
   name: Deployment Bot
   skip-cleanup: true
-  github-token: b4426424bdbe80484da8c37668bc564ba6c24736
+  github-token: 270fdaf29fad2b74bb31dc2b03139644a7405945
   keep-history: true
   on:
     branch: master
