@@ -16,6 +16,7 @@ deploy:
   name: Deployment Bot
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
+  api_key: $GITHUB_TOKEN
   keep-history: true
   on:
     branch: master
