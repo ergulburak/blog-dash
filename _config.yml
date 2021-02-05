@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "show_exerpts:"
   Google search results) and in your feed.xml site description.
 show_excerpts: false # set to true to show excerpts on the homepage
 
-paginate: 1
+paginate: 5
 paginate_path: "/blog/page:num/"
 
 tag_permalink_style: pretty
@@ -39,6 +39,7 @@ dash:
 
   animation_speed: 50
 
+google_analytics: G-3DWR3NTPNX
 # Build settings
 theme: jekyll-dash
 
@@ -50,5 +51,5 @@ plugins:
  - jekyll/tagging
 
 # Replaces the default avatar provider (gravatar)
-#avatar_source: github
-#github_username: bitbrain
+avatar_source: github
+github_username: ergulburak
