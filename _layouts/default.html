@@ -19,6 +19,9 @@
         searchPseudoElements: true
       }
     </script>
+	{%- if jekyll.environment == 'production' and site.google_analytics -%}
+	{%- include google-analytics.html -%}
+	{%- endif -%}
   </body>
 
 </html>
