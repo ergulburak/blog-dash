@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Photoshop'ta zaman kazanın
-description: bu makalede, photoshopta iş yükünüzü nasıl hafifletebiliriz? onu inceleyeceğiz.
+title: Manga editlerken vakit kazanın
+description: bu makalede, manga editlerken iş yükünüzü nasıl hafifletebiliriz? onu inceleyeceğiz.
 tags: [photoshop, photoshop scripting]
 ---
 Photoshop kullanırken bir çok şeyi tekrar tekrar yaptığımız olmuştur. Rutin işlerimiz oluyorsa bu gibi durumlar bize çok fazla zaman kaybettiriyor. Farkına varınca da tadımız iyice kaçıyor. Bende yakın zamanda manga editlemeye başladım, her sayfayı tek tek açıp düzenlemek gerekiyor ama bazı sayfalar birbirleri ile bağlantılı içeriği var. Bunun için `artboard` yani çalışma yüzeyi kullanarak resimleri alt alta koyuyordum. 20-30 sayfalık bölümlerde pek anlaşılmasa da 100'ün üzerinde sayfa olduğu zaman, vaktinizin ne kadar kayıp olduğunu anlıyorsunuz.
