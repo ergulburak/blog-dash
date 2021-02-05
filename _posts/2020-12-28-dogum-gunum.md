@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bugün Benim Doğum Günüm
+title: Bugün benim doğum günüm
 description: bu makale blogun nasıl başladığını anlatıyor.
 tags: baslangıc blog
 ---
