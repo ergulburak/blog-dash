@@ -1,10 +1,10 @@
-title: dash
+title: ergulburak
 author: GitHub User
-email: miguel-gonzalez@gmx.de
+email: burakcan41@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Merhaba, ben Burak. Bilgisayar Mühendisliği son sınıf öğrencisiyim. 
+  Amatör olarak 4 yıldır oyun geliştirme ile ilgileniyorum. Burada oyun 
+  geliştirme ve mobil uygulama hakkında öğretici içerikler paylaşmayı düşünüyorum.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 paginate: 5
@@ -20,20 +20,29 @@ dash:
   date_format: "%b %-d, %Y"
 
   disqus:
-    shortname: bitbrain-github-io
+    shortname: ergulburak-github-io
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://twitter.com/bitbrain_
+    - url: https://twitter.com/BurakERGUL_
       icon: twitter-square
       color: cyan
-    - url: https://bitbrain.itch.io
+    - url: https://lugreb.itch.io
       icon: itch-io
       color: red
-    - url: https://github.com/bitbrain
+    - url: https://github.com/ergulburak
       icon: github-square
       color: purple
+    - url: https://www.youtube.com/channel/UCsPgp8dgYeAL8ar4BAOFEEg
+      icon: youtube
+      color: red
+    - url: https://www.linkedin.com/in/lugreb/
+      icon: linkedin
+      color: blue
+    - url: https://www.instagram.com/burake41/
+      icon: instagram
+      color: orange
 
   show_author: true
 

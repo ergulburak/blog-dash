@@ -6,7 +6,7 @@ layout: default
 {% endunless %}
 {% assign posts_count = paginator.posts | size %}
 {% if posts_count > 0 %}
-<h1>recent articles</h1>
+<h1>son makaleler</h1>
     <div class="post-links">
       {% for post in paginator.posts %}
         <div class="post-link-wrapper">
@@ -39,5 +39,5 @@ layout: default
 
     {% include tagcloud.html %}
 {% else %}
-<h2>no posts yet.</h2>
+<h2>henüz hiç post yok.</h2>
 {% endif %}
