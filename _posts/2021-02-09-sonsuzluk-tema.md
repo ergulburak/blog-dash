@@ -189,7 +189,7 @@ Projeye [github][git] üzerinden erişebilirsiniz. Yorumlarınızı ve öneriler
 
 ## Oynayış videosu:
 
-<video preload="auto" poster="/assets/img/sonsuzluk-5.png" src="/assets/video/screen-recorder-tue-feb-02-2021-21-58-07.webm" type="video/mp4" controls></video>
+<video preload="auto" poster="/assets/img/sonsuzluk-5.PNG" src="/assets/video/screen-recorder-tue-feb-02-2021-21-58-07.webm" type="video/mp4" controls></video>
 
 Videoda problem oluyor ise [Youtube][youtubelink] üzerinden ulaşabilirsiniz.
 
