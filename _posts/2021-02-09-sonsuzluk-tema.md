@@ -16,25 +16,25 @@ ilk olarak bu sonsuzluk kavramını nasıl işleyeceğimi düşündüm. Karakter
 ## Test alanının oluşturulması
 Unitydeki küpleri kullanarak aşağıdaki gibi basit bir alan oluşturdum. Etrafında `Collider`'lar bulunuyor. Bu Colliderlar test alanının sınırları, yani oluşturulan hapishane hücresinin duvarları olarak düşünülebilir.
 
-![resim1](/assets/img/sonsuzluk-1.png)
+![resim1](/assets/img/sonsuzluk-1.PNG)
 
 ## Kameranın sonsuzmuş gibi görmesi
 Kamerada sonsuzmuş gibi görünmesi için haritanin kopyalarını üç boyutlu bir matris oluşturarak merkezde ana harita bulunacak şekilde oluşturdum.
 
-![resim2](/assets/img/sonsuzluk-3.png) 
+![resim2](/assets/img/sonsuzluk-3.PNG) 
 
 Kameraya `fog` vererek uzak yerlerin sis yüzünden görülmemesini sağladım. 
 
-![resim3](/assets/img/sonsuzluk-4.png)
+![resim3](/assets/img/sonsuzluk-4.PNG)
 
 Bu sayede sanki sonsuza kadar tekrar eden bir alana bakıyormuş hissiyatı oluştu.
 
-![resim4](/assets/img/sonsuzluk-5.png)
+![resim4](/assets/img/sonsuzluk-5.PNG)
 
 ## Haritanın otomatik oluşması
 Her sahne için haritayı böyle ayarlamak çok zaman kaybettireceği için üretici bir script hazırladım.
 
-![resim5](/assets/img/sonsuzluk-6.png)
+![resim5](/assets/img/sonsuzluk-6.PNG)
 
 Yukarıdaki girdileri verince üç boyutlu matris haritamızı oluşturup gerekli `Collider`'ları `tag`'lerini verek oluşturuyor.
 ```csharp
@@ -126,7 +126,7 @@ Artık karakterimizi ışınlamaya başlayabiliriz.
 ## Karakterin ışınlanması
 İlk olarak `Rigidbody`'si olan basit hareket scripti bulunan karakterimi `trigger`'landığında ışınlayacak bir kod denedim. Işınlanma düzgün çalışmadı ve ufak bir aramayla proje ayarlarından bir ayarın açılması gerektiğini öğrendim(Kırmızı ile işaretli):
 
-![resim6](/assets/img/sonsuzluk-2.png)
+![resim6](/assets/img/sonsuzluk-2.PNG)
 
 Artık düzgün çalışsada bir problem var! Collide olduğunda ışınlanıyor fakat ışınlandığı haritanin öteki ucunda da collider olduğu için tekrar ışınlanıyor. Böylece sonsuza yada ivmemizden fırlayana kadar ışınlanıyoruz. Bunu engellemek için karakterin çapı kadar içeriye ışınlıyorum. Bu olduğunda işe yarasada görüntüde atlama oluyor, yani biri sizi ileriye yarım saniyede itmiş gibi. Bunu çözmek için `triggerExit` kullanmayı seçiyorum. 
 
@@ -189,7 +189,7 @@ Projeye [github][git] üzerinden erişebilirsiniz. Yorumlarınızı ve öneriler
 
 ## Oynayış videosu:
 
-<video preload="auto" poster="/assets/img/sonsuzluk-5.png" src="/assets/video/screen-recorder-tue-feb-02-2021-21-58-07.webm" type="video/mp4" autoplay controls></video>
+<video preload="auto" poster="/assets/img/sonsuzluk-5.png" src="/assets/video/screen-recorder-tue-feb-02-2021-21-58-07.webm" type="video/mp4" controls></video>
 
 Videoda problem oluyor ise [Youtube][youtubelink] üzerinden ulaşabilirsiniz.
 

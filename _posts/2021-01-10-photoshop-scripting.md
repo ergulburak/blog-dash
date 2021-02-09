@@ -91,7 +91,7 @@ function newArtboard(_name, _w, _h, _x, _y) {
 ```
 Bütün fonksiyonlarımızı tamamladıktan sonra photoshop üzerinden denediğimizde aşağıdaki videoda olduğu gibi çalışır:
 
-<video preload="auto" poster="/assets/img/ps-thumb.png" src="/assets/video/screen-recorder-sat-feb-06-2021-00-03-56.webm" type="video/mp4" autoplay controls></video>
+<video preload="auto" poster="/assets/img/ps-thumb.png" src="/assets/video/screen-recorder-sat-feb-06-2021-00-03-56.webm" type="video/mp4" controls></video>
 
 Videoda problem oluyor ise [Youtube][youtubelink] üzerinden ulaşabilirsiniz. Scriptin tamamına bu [Github][githublink] sayfasından ulaşabilirsiniz. Sorularınız veya önerileriniz için yorum yapmayı unutmayın!
 
