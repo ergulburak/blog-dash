@@ -62,3 +62,8 @@ plugins:
 # Replaces the default avatar provider (gravatar)
 avatar_source: github
 github_username: ergulburak
+
+nav:
+  - title: Hakkımda
+    url: /hakkimda
+    color: orange
