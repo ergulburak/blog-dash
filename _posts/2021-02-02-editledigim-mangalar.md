@@ -9,7 +9,9 @@ tags: [manga, webtoon, edit]
 * 254.Bölüm, 275.Bölüm, 278.Bölüm, 289.Bölüm, 290.Bölüm
 * 291.Bölüm, 292.Bölüm, 293.Bölüm, 294.Bölüm, 300.Bölüm
 * 301.Bölüm, 302.Bölüm, 303.Bölüm, 304.Bölüm, 305.Bölüm
-* 308.Bölüm, 309.Bölüm, 310.Bölüm
+* 308.Bölüm, 309.Bölüm, 310.Bölüm, 340.Bölüm, 341.Bölüm
+* 343.Bölüm, 344.Bölüm, 345.Bölüm, 346.Bölüm, 347.Bölüm
+* 348.Bölüm
 
 ## To be winner
 
@@ -32,4 +34,9 @@ tags: [manga, webtoon, edit]
 
 * 14.Bölüm, 15.Bölüm, 16.Bölüm, 17.Bölüm, 18.Bölüm
 * 19.Bölüm, 20.Bölüm
+
+## Jujutsu Kaisen
+
+* 120.Bölüm, 121.Bölüm, 122.Bölüm, 123.Bölüm, 124.Bölüm
+* 125.Bölüm, 126.Bölüm, 127.Bölüm, 128.Bölüm, 129.Bölüm
 
