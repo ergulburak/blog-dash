@@ -2,7 +2,7 @@
 layout: post
 title: Bugün benim doğum günüm
 description: bu makale blogun nasıl başladığını anlatıyor.
-tags: baslangıc blog
+tags: baslangic blog
 ---
 
 Bloğumu kendi doğum günümde açmak tesadüfen denk geldi. Uzun zamandır açmayı planlıyordum.
